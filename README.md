@@ -3,7 +3,7 @@
 A machine learning web app that detects fraudulent credit card transactions using 6 classification algorithms.
 
 ## 🚀 Live Demo
-Deployed on Streamlit Cloud.
+👉 [Click here to open the Live App](https://x9aaulbpgcfznnnneazebt.streamlit.app)
 
 ## 🤖 Models Used
 - Random Forest (**Best — 93.9%**)
